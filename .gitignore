@@ -2,3 +2,4 @@
 venv/
 dist/
 calculator.egg-info/
+.scannerwork/
